@@ -1,4 +1,6 @@
-# Investec Wealth Creation Series
+# Investec | Wealth Creation
+
+![](<../../.gitbook/assets/Screenshot 2022-03-20 at 15.26.54.png>)
 
 {% content-ref url="an-introduction-to-investment.md" %}
 [an-introduction-to-investment.md](an-introduction-to-investment.md)
