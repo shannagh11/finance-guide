@@ -3,9 +3,9 @@
 * [💵 The Finance Guide for SA Developers](README.md)
   * [How to use this guide](readme/how-to-use-this-guide.md)
 
-## 📈 Investment & Wealth Creation
+## Investment & Wealth Creation
 
-* [Investec | Wealth Creation Series](investment-and-wealth-creation/investec-or-wealth-creation-series/README.md)
+* [📈 Investec | Wealth Creation Series](investment-and-wealth-creation/investec-or-wealth-creation-series/README.md)
   * [An introduction to investment](investment-and-wealth-creation/investec-or-wealth-creation-series/an-introduction-to-investment.md)
   * [Asset classes](investment-and-wealth-creation/investec-or-wealth-creation-series/asset-classes.md)
   * [Investing in Property](investment-and-wealth-creation/investec-or-wealth-creation-series/investing-in-property.md)
