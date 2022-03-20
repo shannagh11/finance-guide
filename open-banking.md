@@ -4,7 +4,7 @@ cover: .gitbook/assets/Google Form Header_1.png
 coverY: 0
 ---
 
-# Open Banking
+# 🏛 Open Banking
 
 {% hint style="info" %}
 **Already have an Investec Account?** Ask your banker to activate you for Programmable Banking&#x20;
