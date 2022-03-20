@@ -11,9 +11,10 @@
   * [Investing Offshore](investment-and-wealth-creation/investec-or-wealth-creation-series/investing-offshore.md)
   * [Active and Passive Investing](investment-and-wealth-creation/investec-or-wealth-creation-series/active-and-passive-investing.md)
 
-## 🏛 Open Banking&#x20;
+## 🏛 Open Banking
 
-* [🏛 Open Banking](open-banking/open-banking.md)
+* [🏛 Programmable Banking](open-banking/programmable-banking/README.md)
+  * [An introduction to Programmable Banking](open-banking/programmable-banking/an-introduction-to-programmable-banking.md)
 
 ***
 
