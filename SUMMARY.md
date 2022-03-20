@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Finance Guide for SA Devs](README.md)
+* [💵 The Finance Guide for SA Developers](README.md)
+  * [How to use this guide](readme/how-to-use-this-guide.md)
 
 ## 📈 Investment & Wealth Creation
 
