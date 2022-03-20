@@ -1,7 +1,5 @@
 ---
 description: Code your own bank experience.
-cover: .gitbook/assets/Google Form Header_1.png
-coverY: 0
 ---
 
 # 🏛 Open Banking
