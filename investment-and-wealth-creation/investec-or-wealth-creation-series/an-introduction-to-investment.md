@@ -1,10 +1,8 @@
----
-description: Ayabonga Cawe speaks with Investec's X and X
----
-
 # An introduction to investment
 
 {% embed url="https://open.spotify.com/episode/2w9h61mNziM9QRa3eVxp7I" %}
+[Ayabonga Cawe ](https://www.linkedin.com/in/ayabonga-cawe-70942746/?originalSubdomain=za)speaks with Investec's [Stephen Silcock](https://www.linkedin.com/in/stephen-silcock-232a64216/?originalSubdomain=za) and [Tebello Rabele](https://www.linkedin.com/in/tebello-rabele-b4101b84/?originalSubdomain=za).
+{% endembed %}
 
 ### Key tips&#x20;
 
@@ -28,4 +26,4 @@ description: Ayabonga Cawe speaks with Investec's X and X
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-> ****
+****
