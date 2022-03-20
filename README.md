@@ -1,6 +1,6 @@
 ---
 description: OfferZen has partnered with Investec to bring you pro-finance tips.
-cover: .gitbook/assets/Google Form Header_1.png
+cover: .gitbook/assets/Untitled.jpg
 coverY: 0
 ---
 
