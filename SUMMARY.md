@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Finance Guide for SA Devs](README.md)
-* [Quick Start](quick-start.md)
+* [Open Banking](open-banking.md)
 
 ## Reference
 
