@@ -4,7 +4,7 @@
 [Ayabonga Cawe ](https://www.linkedin.com/in/ayabonga-cawe-70942746/?originalSubdomain=za)speaks with Investec's [Stephen Silcock](https://www.linkedin.com/in/stephen-silcock-232a64216/?originalSubdomain=za) and [Tebello Rabele](https://www.linkedin.com/in/tebello-rabele-b4101b84/?originalSubdomain=za).
 {% endembed %}
 
-### Key tips&#x20;
+### Summary&#x20;
 
 > **Compound interest is powerful and the best return is usually slow and steady.**&#x20;
 
