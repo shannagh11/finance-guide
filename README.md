@@ -2,8 +2,8 @@
 description: >-
   OfferZen has partnered with Investec to bring you pro-tips on finance and
   fintech topics.
-cover: .gitbook/assets/Gitbook cover.jpg
-coverY: 0
+cover: .gitbook/assets/Header4.jpg
+coverY: -13
 ---
 
 # 💵 The Finance Guide for SA Developers
