@@ -25,6 +25,6 @@
 * [🏛 Programmable Banking](open-banking/programmable-banking/README.md)
   * [An introduction to Programmable Banking](open-banking/programmable-banking/an-introduction-to-programmable-banking.md)
 
-***
+## Cryptocurrency
 
-* [🪙 Cryptocurrency](cryptocurrency.md)
+* [Page 1](cryptocurrency/page-1.md)
