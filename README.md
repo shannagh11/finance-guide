@@ -2,7 +2,7 @@
 description: >-
   OfferZen has partnered with Investec to bring you pro-tips on finance and
   fintech topics.
-cover: .gitbook/assets/Untitled.jpg
+cover: .gitbook/assets/Gitbook cover.jpg
 coverY: 0
 ---
 
