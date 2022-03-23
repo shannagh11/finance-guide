@@ -15,10 +15,10 @@
 ## Working, Earning & Investing Abroad
 
 * [✈ Investec | Moving Abroad Series](working-earning-and-investing-abroad/investec-or-moving-abroad-series/README.md)
-  * [🇬🇧 United Kingdom](working-earning-and-investing-abroad/investec-or-moving-abroad-series/united-kingdom.md)
-  * [🇺🇸 United States of America](working-earning-and-investing-abroad/investec-or-moving-abroad-series/united-states-of-america.md)
-  * [🇦🇺 Australia](working-earning-and-investing-abroad/investec-or-moving-abroad-series/australia.md)
-  * [🇲🇺 Mauritius](working-earning-and-investing-abroad/investec-or-moving-abroad-series/mauritius.md)
+  * [🇬🇧 🇬🇧 United Kingdom](working-earning-and-investing-abroad/investec-or-moving-abroad-series/united-kingdom.md)
+  * [🇺🇸 🇺🇸 United States of America](working-earning-and-investing-abroad/investec-or-moving-abroad-series/united-states-of-america.md)
+  * [🇦🇺 🇦🇺 Australia](working-earning-and-investing-abroad/investec-or-moving-abroad-series/australia.md)
+  * [🇲🇺 🇲🇺 Mauritius](working-earning-and-investing-abroad/investec-or-moving-abroad-series/mauritius.md)
 
 ## Open Banking
 

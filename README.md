@@ -1,6 +1,7 @@
 ---
 description: >-
-  OfferZen has partnered with Investec to bring you pro-tips on finance topics.
+  OfferZen has partnered with Investec to bring you pro-tips on personal finance
+  topics.
 cover: .gitbook/assets/Header4.jpg
 coverY: -13
 ---
@@ -13,7 +14,7 @@ coverY: -13
 
 ### Welcome
 
-**Welcome to the finance guide that you didn't know you needed**.&#x20;
+**Welcome to your personal finance guide.**&#x20;
 
 Ever wonder what tax rebates you can claim from working from home or how investing offshore might benefit you? Do you know how your salary compares to other developers in SA or which cryptocurrencies you should be keeping an eye on?
 
