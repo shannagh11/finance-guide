@@ -1,4 +1,4 @@
-# 📈 Investec | Wealth Creation Series
+# Investec | Wealth Creation Series
 
 In this Investec podcast series, [Ayabonga Cawe](https://www.linkedin.com/in/ayabonga-cawe-70942746/) unpacks wealth creation by speaking with investment experts at Investec.&#x20;
 

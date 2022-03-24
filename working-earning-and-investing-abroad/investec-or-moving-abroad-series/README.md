@@ -1,2 +1,2 @@
-# ✈ Investec | Moving Abroad Series
+# Investec | Moving Abroad Series
 
