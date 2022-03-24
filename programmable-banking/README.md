@@ -1,14 +1,8 @@
----
-description: Code your own bank experience.
----
-
 # 🏛 Open Banking
 
 {% hint style="info" %}
 **Already have an Investec Account?** Ask your banker to activate you for Programmable Banking&#x20;
 {% endhint %}
-
-### An introduction to Open Banking
 
 {% embed url="https://open.spotify.com/episode/2xu7HzEu9G0xedX572ydkJ" %}
 
