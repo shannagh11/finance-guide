@@ -14,11 +14,7 @@ coverY: -13
 
 ### Welcome
 
-**Welcome to your personal finance guide.**&#x20;
-
-Ever wonder what tax rebates you can claim from working from home or how investing offshore might benefit you? Do you know how your salary compares to other developers in SA or which cryptocurrencies you should be keeping an eye on?
-
-This guide has been developed by **OfferZen** in partnership with **Investec**, and in collaboration with **OfferZen community members.** If you're interested to contribute to this guide, [hit us up!](./#keen-to-contribute)
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
 
 ### What this isn't
 
@@ -30,4 +26,6 @@ OfferZen is not liable for any loss caused, whether due to negligence or otherwi
 
 ### Want to get involved?
 
-If you are keen to contribute to this guide in any way, get in touch with us.
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+
+> ****
