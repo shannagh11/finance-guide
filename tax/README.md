@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/fffff.jpg
-coverY: 0
+coverY: -36
 ---
 
 # 💸 Tax
