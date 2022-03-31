@@ -2,7 +2,7 @@
 description: >-
   OfferZen has partnered with Investec to bring you pro-tips on personal finance
   topics.
-cover: .gitbook/assets/ggggg.jpg
+cover: .gitbook/assets/FINANCE Investec_Gitbook Cover Images_V4-15.png
 coverY: 0
 ---
 

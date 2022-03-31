@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/OPEN BANK Investec_Gitbook Cover Images_V4-12.png
+coverY: 0
+---
+
 # 🏛 Open Banking
 
 {% hint style="info" %}
