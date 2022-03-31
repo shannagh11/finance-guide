@@ -1,8 +1,6 @@
----
-description: What to know when moving, earning and investing offshore
----
-
 # 🇬🇧 United Kingdom
+
+### What should I know when moving to or investing in the UK?&#x20;
 
 \[Copy coming soon]
 

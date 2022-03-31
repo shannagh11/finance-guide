@@ -1,8 +1,6 @@
----
-description: Is property the investment for me?
----
-
 # Investing in property
+
+### Is property the investment for me?
 
 \[Copy coming soon]
 

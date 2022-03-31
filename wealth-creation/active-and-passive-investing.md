@@ -1,8 +1,6 @@
----
-description: What is the difference between active and passive investing?
----
-
 # Active and passive investing
+
+### What is the difference between active and passive investing?
 
 \[Copy coming soon]
 

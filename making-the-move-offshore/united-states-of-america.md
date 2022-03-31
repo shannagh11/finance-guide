@@ -1,8 +1,6 @@
----
-description: What to know when moving, earning and investing offshore
----
-
 # 🇺🇸 United States of America
+
+### What should I know when moving to or investing in the USA?&#x20;
 
 \[Copy coming soon]
 

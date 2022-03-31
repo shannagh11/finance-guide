@@ -1,8 +1,6 @@
----
-description: What are asset classes?
----
-
 # Asset classes
+
+### What are asset classes?
 
 \[Copy coming soon]
 

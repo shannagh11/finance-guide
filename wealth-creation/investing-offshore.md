@@ -1,8 +1,6 @@
----
-description: What do I need to consider when investing offshore?
----
-
 # Investing offshore
+
+### What do I need to consider when investing offshore?
 
 \[Copy coming soon]
 

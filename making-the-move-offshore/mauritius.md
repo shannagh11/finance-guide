@@ -1,8 +1,6 @@
----
-description: What to know when moving, earning and investing offshore
----
-
 # 🇲🇺 Mauritius
+
+### What should I know when moving to or investing in Mauritius?&#x20;
 
 \[Copy coming soon]
 
