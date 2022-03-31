@@ -18,7 +18,7 @@ The **Finance Guide for SA Devs** contains carefully curated content to help you
 
 This guide aims to answer the personal finance questions that are top-of-mind - whether that be how to maximise tax rebates while working from home, figuring out how your salary compares to other developers or simply how you can better customise your banking.&#x20;
 
-### In partnership with Investec & the OfferZen Community&#x20;
+### Our partners
 
 We have partnered with Investec so as to provide in-depth insights from its experts. Investec is committed to enabling software developers in South Africa not only by providing innovative financial products but by assisting with financial education through this guide.&#x20;
 
