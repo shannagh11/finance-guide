@@ -1,3 +1,3 @@
 # From side hustle to business
 
-### When is it a good time to turn my side hustle into a full-time business?
+### What do I do when my side hustle starts to make money?&#x20;
