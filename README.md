@@ -2,7 +2,7 @@
 description: >-
   A curated finance guide, brought to you by OfferZen in partnership with
   Investec.
-cover: .gitbook/assets/ggggg.jpg
+cover: .gitbook/assets/FINANCE Investec_Gitbook Cover Images_V4-15.png
 coverY: 0
 ---
 
