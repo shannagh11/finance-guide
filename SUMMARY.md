@@ -25,7 +25,7 @@
   * [Salary benchmarking](your-salary-as-a-developer/how-does-my-salary-compare-to-other-devs-in-sa.md)
   * [Best paying developer roles](your-salary-as-a-developer/what-are-the-best-paying-software-development-roles-in-sa.md)
   * [Your earning potential](your-salary-as-a-developer/what-are-the-things-that-will-affects-my-earning-potential.md)
-* [✈ Making the move offshore](making-the-move-offshore/README.md)
+* [✈ Making the Move Offshore](making-the-move-offshore/README.md)
   * [🇬🇧 United Kingdom](making-the-move-offshore/united-kingdom.md)
   * [🇺🇸 United States of America](making-the-move-offshore/united-states-of-america.md)
   * [🇦🇺 Australia](making-the-move-offshore/australia.md)
