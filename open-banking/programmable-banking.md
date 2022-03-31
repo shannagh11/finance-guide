@@ -1,12 +1,9 @@
----
-cover: ../.gitbook/assets/OPEN BANK Investec_Gitbook Cover Images_V4-12.png
-coverY: 0
----
+# Make Programmable Banking work for you
 
-# 🏛 Open Banking
+
 
 {% hint style="info" %}
-**Already have an Investec Account?** Ask your banker to activate you for Programmable Banking&#x20;
+**Already have an Investec Account?** [Ask your banker to activate you for Programmable Banking ](https://www.investec.com/en\_za/banking/programmable-banking.html)
 {% endhint %}
 
 ![Manage your bank account transaction data in a spreadsheet ](<../.gitbook/assets/OfferZen\_Investec\_PB\_How-we-built-spreadsheet-banking-in-a-day\_blog-inner-article-image--1- (1).png>) ![Transfer money into your savings account for your next pair of running shoes every time you complete a Strava activity.](../.gitbook/assets/OfferZen\_Investec\_PB\_How-to-save-money-while-you-re-running\_blog-Inner-image.png)
