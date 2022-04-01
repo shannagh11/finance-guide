@@ -1,6 +1,7 @@
 # Table of contents
 
 * [💵 Finance Guide for SA Devs](README.md)
+  * [About OfferZen](readme/about-offerzen.md)
 * [💸 Tax](tax/README.md)
   * [Income tax and capital gains tax](tax/income-tax-and-capital-gains-tax.md)
   * [Tax brackets](tax/tax-brackets.md)
