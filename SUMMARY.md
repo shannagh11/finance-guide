@@ -10,6 +10,7 @@
   * [Provisional vs. non-provisional tax](tax/provisional-vs.-non-provisional-tax.md)
   * [Tax rebates](tax/tax-rebates.md)
 * [📈 Wealth Creation](wealth-creation/README.md)
+  * [Investing 101](wealth-creation/investing-101.md)
   * [Asset classes](wealth-creation/asset-classes.md)
   * [Investing in property](wealth-creation/investing-in-property.md)
   * [Investing offshore](wealth-creation/investing-offshore.md)
