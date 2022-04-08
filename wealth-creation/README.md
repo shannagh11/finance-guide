@@ -5,7 +5,7 @@ coverY: 0
 
 # 📈 Wealth Creation
 
-###
+\[Copy coming soon]
 
 
 
