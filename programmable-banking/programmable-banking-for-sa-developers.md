@@ -16,3 +16,6 @@ coverY: 0
 
 
 {% embed url="https://open.spotify.com/episode/2xu7HzEu9G0xedX572ydkJ" %}
+
+If you have further questions relating to open banking, please submit them here, so that we can further develop this section of the guide and make sure it is useful to you.
+

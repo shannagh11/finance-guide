@@ -7,5 +7,5 @@ coverY: 0
 
 \[Copy coming soon]
 
-
+If you have further questions relating to wealth creation, please submit them _here_, so that we can further develop this section of the guide and make sure it is useful to you.
 

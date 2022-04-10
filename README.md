@@ -26,7 +26,7 @@ In addition, we have worked closely with members of the OfferZen developer commu
 
 ### Want to get involved?
 
-If you would like to contribute finance content to this guide or simply have personal finance questions that you want answered email us at **financeguideforsadevs@offerzen.com.**&#x20;
+If you would like to contribute finance content to this guide or simply have personal finance questions that you want answered email us at **financeguideforsadevs@offerzen.com.**  In addition, if you have further questions relating personal finances that aren't covered in the guide, please submit them _here_, so that we can further develop the guide and make sure it is useful to you.
 
 ### What this isn't
 
