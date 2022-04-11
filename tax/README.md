@@ -5,7 +5,7 @@ coverY: 0
 
 # 💸 Tax
 
-In our quest to figure out what personal finance questions keep developers up at night, we found Tax to be topic that could not be avoided. For nothing is certain in life, but death and taxes.&#x20;
+Nothing is certain in life, but death and taxes. In our quest to figure out what personal finance questions keep developers up at night, we found Tax to be topic that could not be avoided.&#x20;
 
 Everyone's tax situation is different, and it is therefore important to consult a professional, but there are some tax basics that every developer should know.&#x20;
 

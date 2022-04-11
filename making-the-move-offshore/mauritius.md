@@ -1,14 +1,12 @@
 # 🇲🇺 Mauritius
 
-## What should I know when moving to or investing in Mauritius?&#x20;
+### What should I know when moving to or investing in Mauritius?&#x20;
 
 {% embed url="https://open.spotify.com/episode/0enGzggjCngKAKfE7WBton" %}
 [Nozipho Tshabalala](https://www.linkedin.com/in/noziphotshabalala/?originalSubdomain=za) speaks with Investec's [Rene van Zyl ](https://www.linkedin.com/in/renelabuschagne/?originalSubdomain=za)and [Gordan Stuart](https://www.linkedin.com/in/gordon-stuart-81645a173/?originalSubdomain=mu), MD of Accuro.
 {% endembed %}
 
-If you dream of working and living in Mauritius, or you’re considering investing there, a wide range of options is available.&#x20;
-
-But before you jump on a plane, there is more to island life than cocktails and white beaches, say [Rene van Zyl](https://www.linkedin.com/in/renelabuschagne/?originalSubdomain=za) of Investec, and [Gordon Stuart](https://www.linkedin.com/in/gordon-stuart-81645a173/?originalSubdomain=mu), Accuro MD in Mauritius.
+If you dream of working and living in Mauritius, or you’re considering investing there, a wide range of options is available. But before you jump on a plane, there is more to island life than cocktails and white beaches, say [Rene van Zyl](https://www.linkedin.com/in/renelabuschagne/?originalSubdomain=za) of Investec, and [Gordon Stuart](https://www.linkedin.com/in/gordon-stuart-81645a173/?originalSubdomain=mu), Accuro MD in Mauritius.
 
 ### &#x20;**High cost of living**
 
@@ -22,11 +20,7 @@ Food, property and cars in Mauritius are expensive. In addition, expats are trea
 
 Mauritius is not the low-tax jurisdiction it once was. It is highly regulated, participating in both the **Common Reporting Standards** and **the Foreign Account Tax Compliance Act.**
 
-The personal tax rate used to be an enviable 15%, but expats are now subject to a 25% solidarity levy on a salary of more than Rs3 million (about R1.2 million).
-
-You also pay 3% of your salary to a pension scheme that only citizens can access.
-
-On the plus side, you don’t pay capital gains tax (CGT), donations tax or estate duty tax.
+The personal tax rate used to be an enviable 15%, but expats are now subject to a 25% solidarity levy on a salary of more than Rs3 million (about R1.2 million). You also pay 3% of your salary to a pension scheme that only citizens can access. On the plus side, you don’t pay capital gains tax (CGT), donations tax or estate duty tax.
 
 ### **Applying to work and live in Mauritius**
 
