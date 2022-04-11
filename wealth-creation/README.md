@@ -5,7 +5,7 @@ coverY: 0
 
 # 📈 Wealth Creation
 
-Whether you are just starting out in your career as a developer or you are already in a senior role, knowing how to grow your wealth&#x20;
+
 
 
 

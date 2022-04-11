@@ -9,13 +9,10 @@ coverY: 0
 **Already have an Investec Account?** [Ask your banker to activate you for Programmable Banking ](https://www.investec.com/en\_za/banking/programmable-banking.html)
 {% endhint %}
 
-### What is Open Banking?&#x20;
-
-\[Copy coming soon]
-
-
+\[Copy coming soon]&#x20;
 
 {% embed url="https://open.spotify.com/episode/2xu7HzEu9G0xedX572ydkJ" %}
 
-If you have further questions relating to open banking, please submit them here, so that we can further develop this section of the guide and make sure it is useful to you.
-
+{% hint style="info" %}
+If you have further questions relating to open banking, please submit them _here_, so that we can further develop this section of the guide and make sure it is useful to you.
+{% endhint %}
