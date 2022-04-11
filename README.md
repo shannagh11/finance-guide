@@ -20,7 +20,7 @@ This guide aims to answer those personal finance questions that are top-of-mind 
 
 ### Our partners
 
-We have partnered with Investec to provide in-depth insights from financial experts. Investec is committed to enabling software developers in South Africa, not only by providing innovative financial products, but by assisting with financial education.&#x20;
+We have partnered with Investec to provide in-depth insights from financial experts. [Investec](https://www.investec.com/en\_za.html) is committed to enabling software developers in South Africa, not only by providing innovative financial products, but by assisting with financial education.&#x20;
 
 In addition, we have worked closely with members of the OfferZen developer community to develop the framework for this guide and ensure that the content we include is valuable and useful to you.
 
