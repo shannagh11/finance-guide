@@ -5,7 +5,9 @@ coverY: 0
 
 # 💰 Side Hustles & Building a Business
 
-You won't find many full-time software makers that don't tinker with a side project over the weekend and in their spare time. Whether it is your intention or not, sometimes it will start to make you extra money and at some point, you might start to wonder whether it's the right time to quit your job and start building out a business.&#x20;
+You won't find many a software maker that doesn't tinker with a side project or a passion project over the weekend and in their spare time.&#x20;
+
+Whether intentional or not, that side project can start to make you extra money and at some point, you might start to wonder whether it's the right time to quit your job and start building out a business.&#x20;
 
 In this chapter, we aim to help you figure out the world of side hustles as well as how and when to go about building out a business.&#x20;
 
