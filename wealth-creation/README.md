@@ -5,7 +5,7 @@ coverY: 0
 
 # 📈 Wealth Creation
 
-
+There a number of different avenues you can pursue to grow your wealth and&#x20;
 
 
 

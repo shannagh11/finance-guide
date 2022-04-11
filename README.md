@@ -20,14 +20,14 @@ This guide aims to answer those personal finance questions that are top-of-mind 
 
 ### Our partners
 
-We have partnered with Investec to provide in-depth insights from financial experts. [Investec](https://www.investec.com/en\_za.html) is committed to enabling software developers in South Africa, not only by providing innovative financial products, but by assisting with financial education.&#x20;
+We have partnered with **** [**Investec**](https://www.investec.com/en\_za.html) **** to provide in-depth insights from financial experts. Investec is committed to enabling software developers in South Africa, not only by providing innovative financial products, but by assisting with financial education. Where relevant, we have also consulted with other experts to make sure we cover all the bases.&#x20;
 
 In addition, we have worked closely with members of the OfferZen developer community to develop the framework for this guide and ensure that the content we include is valuable and useful to you.
 
 ### Want to get involved?
 
-If you would like to contribute finance content to this guide or simply have personal finance questions that you want answered email us at **financeguideforsadevs@offerzen.com.**  In addition, if you have further questions relating personal finances that aren't covered in the guide, please submit them _here_, so that we can further develop the guide and make sure it is useful to you.
+If you would like to contribute content to this guide you can email us at **financeguideforsadevs@offerzen.com.**  In addition, if you have further questions relating to personal finances that aren't covered in the guide, please submit them _here_, so that we can further develop the guide and make sure it is useful to you.
 
 ### What this isn't
 
-_The information provided in this guide is for general information only. It should not be taken as constituting professional advice as OfferZen is not a financial adviser. You should consider seeking independent legal, financial, taxation or other advice to check how the information relates to your unique circumstances. OfferZen is not liable for any loss caused, whether due to negligence or otherwise arising from the use of, or reliance on, the information provided directly or indirectly, by use of this website._
+The information provided in this guide is for general information only. It should not be taken as constituting professional advice as OfferZen is not a financial adviser. You should consider seeking independent legal, financial, taxation or other advice to check how the information relates to your unique circumstances. OfferZen is not liable for any loss caused, whether due to negligence or otherwise arising from the use of, or reliance on, the information provided directly or indirectly, by use of this website.
