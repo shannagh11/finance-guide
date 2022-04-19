@@ -30,8 +30,6 @@ In addition, we have worked closely with members of the [**OfferZen developer co
 If you're a developer in SA reading this guide with questions relating to personal finances that we haven't covered, please submit them **** [_**here**_](https://8malmkzgvs8.typeform.com/to/oLVWxa8r)_**.**_ We want to make sure that we curate content that is useful to you.
 {% endhint %}
 
-If you would like to get in touch to chat about creating personal financial content for this guide you can email us at **community-investec@offerzen.com**.
-
 ### What this isn't
 
 The information provided in this guide is for general information only. It should not be taken as constituting professional advice as OfferZen is not a financial adviser. You should consider seeking independent legal, financial, taxation or other advice to check how the information relates to your unique circumstances. OfferZen is not liable for any loss caused, whether due to negligence or otherwise arising from the use of, or reliance on, the information provided directly or indirectly, by use of this website.
