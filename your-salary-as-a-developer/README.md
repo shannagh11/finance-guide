@@ -10,6 +10,6 @@ Over the past few years, software has proven to be a formidable force. While ent
 In this chapter, we reference OfferZen's [State of the Developer Nation Survey](https://www.offerzen.com/reports/software-developer-south-africa/), which provides an in-depth analysis of developer salary trends by surveying developers across South Africa. The report also includes general tech and career trends that you may finding interesting.&#x20;
 
 {% hint style="info" %}
-If you have further questions relating to your salary as a developer, please submit them [_**here**_](https://8malmkzgvs8.typeform.com/to/oLVWxa8r?typeform-source=app.gitbook.com)_**.**_
+If you have further questions relating to your salary as a developer, please submit them [_**here**_](https://8malmkzgvs8.typeform.com/to/oLVWxa8r)_**.**_
 {% endhint %}
 
