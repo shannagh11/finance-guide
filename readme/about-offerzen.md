@@ -10,7 +10,7 @@ Over the last five years, this mission has manifested in a multitude of ways: fr
 
 ### OfferZen and Investec Partnership
 
-To help developers build great software, they need access to the core services of our economy - such as **banking** and **finance**.&#x20;
+To help developers build great software, they need access to the core services of our economy - including **banking** and **finance**.&#x20;
 
 OfferZen's partnership with Investec is another step toward empowering developers to build awesome software and make **** [**Programmable Banking** ](https://www.offerzen.com/community/investec/)a reality in SA. &#x20;
 
