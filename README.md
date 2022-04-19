@@ -8,10 +8,6 @@ coverY: 0
 
 # 💵 Finance Guide for SA Devs
 
-{% hint style="info" %}
-[Interested in a Programmable Banking account with Investec?](https://www.investec.com/en\_za/banking/programmable-banking.html#intouch)
-{% endhint %}
-
 ### Welcome
 
 This **Finance Guide for SA Devs** contains carefully curated content to help you navigate the world of personal finance. As you progress through your career as a developer, your financial position will change and so will your questions about money.&#x20;
@@ -22,11 +18,19 @@ This guide aims to answer those personal finance questions that are top-of-mind 
 
 We have partnered with **** [**Investec**](https://www.investec.com/en\_za.html) **** to provide in-depth insights from financial experts. Investec is committed to enabling software developers in South Africa, not only by providing innovative financial products, but by assisting with financial education. Where relevant, we have also consulted with other experts to make sure we cover all the bases.&#x20;
 
-In addition, we have worked closely with members of the OfferZen developer community to develop the framework for this guide and ensure that the content we include is valuable and useful to you.
+In addition, we have worked closely with members of the [**OfferZen developer community**](https://www.offerzen.com/community) to develop the framework for this guide and ensure that the content we include is valuable and useful to you.&#x20;
+
+{% hint style="info" %}
+[Interested in a Programmable Banking account with Investec?](https://www.investec.com/en\_za/banking/programmable-banking.html#intouch)
+{% endhint %}
 
 ### Want to get involved?
 
-If you would like to contribute content to this guide you can email us at **financeguideforsadevs@offerzen.com.**  In addition, if you have further questions relating to personal finances that aren't covered in the guide, please submit them _here_, so that we can further develop the guide and make sure it is useful to you.
+{% hint style="info" %}
+If you're a developer in SA reading this guide with questions relating to personal finances that we haven't covered, please submit them **** [_**here**_](https://8malmkzgvs8.typeform.com/to/oLVWxa8r)_**.**_ We want to make sure that we curate content that is useful to you.
+{% endhint %}
+
+If you would like to get in touch to chat about creating personal financial content for this guide you can email us at **community-investec@offerzen.com**.
 
 ### What this isn't
 
