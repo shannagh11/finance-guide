@@ -15,11 +15,7 @@ In the UK, the Open Banking movement has been driven by the PSD2 (Revised Paymen
 
 In South Africa, Open Banking is not a legal requirement, but we do see banks such as Investec leading the way in offering [Programmable Banking](https://www.investec.com/en\_za/banking/programmable-banking.html) to their clients.&#x20;
 
-### What does Open Banking mean to me as an individual?&#x20;
-
-
-
-### What does Open Banking mean for my business?&#x20;
+###
 
 
 
