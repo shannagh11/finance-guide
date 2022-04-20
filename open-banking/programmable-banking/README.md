@@ -16,7 +16,7 @@ You can build your own rules and limits using securely hosted Javascript cloud f
 [Join the Programmable Banking Community ](https://8malmkzgvs8.typeform.com/to/VlKgTtaV?typeform-source=www.google.com)
 {% endhint %}
 
-[Customize](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/9VWhkIgYMeVjNzar7ByK/\~/changes/cmZvpgn2glZPNINQrgmt/open-banking/programmable-banking/\~/customize)OfferZen and Investec are working together with the community on a mission to enable developers to access the world of banking. The community is a space for sharing ideas and connecting with other developers interested in building out new fintech solutions.&#x20;
+OfferZen and Investec are working with the Programmable Banking community to enable developers to access the world of banking. The community is a space for sharing ideas and connecting with other developers interested in building out new fintech solutions.&#x20;
 
 Writing code alone is not fun, building something new is even harder! Discovering and then refining those use cases and code snippets (don’t kid yourself, we all use code snippets!) is the other part; and this is rarely effective when done in isolation.
 
