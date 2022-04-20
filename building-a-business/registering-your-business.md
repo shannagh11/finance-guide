@@ -1,5 +1,5 @@
 # Registering your business
 
-### How do I register my side hustle as a business?
+### How do I register my business?
 
 \[Copy coming soon]
