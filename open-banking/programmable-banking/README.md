@@ -12,7 +12,11 @@ You can build your own rules and limits using securely hosted Javascript cloud f
 
 ### Programmable Banking Community&#x20;
 
-OfferZen and Investec are working together with the community on a mission to enable developers to access the world of banking. The community is a space for sharing ideas and connecting with other developers interested in building out new fintech solutions.&#x20;
+{% hint style="info" %}
+[Join the Programmable Banking Community ](https://8malmkzgvs8.typeform.com/to/VlKgTtaV?typeform-source=www.google.com)
+{% endhint %}
+
+[Customize](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/9VWhkIgYMeVjNzar7ByK/\~/changes/cmZvpgn2glZPNINQrgmt/open-banking/programmable-banking/\~/customize)OfferZen and Investec are working together with the community on a mission to enable developers to access the world of banking. The community is a space for sharing ideas and connecting with other developers interested in building out new fintech solutions.&#x20;
 
 Writing code alone is not fun, building something new is even harder! Discovering and then refining those use cases and code snippets (don’t kid yourself, we all use code snippets!) is the other part; and this is rarely effective when done in isolation.
 
@@ -22,22 +26,8 @@ Our core focus as a community is to support each other to unlock the potential o
 
 **Who is the community for?**
 
-The community is for individuals with a passion for technology. If you are interested in building on the banking experience and helping ignite other’s imagination, this is the place for you.
-
-#### What has the community built?
-
-The community are always finding new ways to solve interesting problems with Programmable Banking – from managing spend on your card to voice-enabled transactions on your account. Check out our community projects on [GitLab.](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
+The community is for individuals with a passion for technology. If you are interested in building on the banking experience and helping ignite other’s imagination, this is the place for you
 
 You can find out more about the community [**here**](https://offerzen.gitbook.io/programmable-banking-community-wiki/)**.**
 
-{% hint style="info" %}
-[Join the Programmable Banking Community ](https://8malmkzgvs8.typeform.com/to/VlKgTtaV?typeform-source=www.google.com)
-{% endhint %}
-
-
-
-![](<../../.gitbook/assets/OfferZen\_Investec\_PB\_How-we-built-spreadsheet-banking-in-a-day\_blog-inner-article-image--1- (1).png>) ![Transfer money into your savings account for your next pair of running shoes every time you complete a Strava activity.](../../.gitbook/assets/OfferZen\_Investec\_PB\_How-to-save-money-while-you-re-running\_blog-Inner-image.png)
-
-![Track expiring card subscriptions](../../.gitbook/assets/Programmable-Banking-Community--Don-t-Get-Caught-Out-by-Expiring-Subscriptions-Again\_Inner-Article-Image.png) ![Easily reward community contributions](../../.gitbook/assets/Programmable-Banking-Project--Transparent-Rewards-for-Open-Source-Contributors\_Inner-Article-Image-1.png)
-
-![How Afican Alliance Automated Expense Allocation to Save Time and Costs ](../../.gitbook/assets/Kevin\_How-African-Alliance-Automated-Expense-Allocation-to-Save-Time-and-Costs\_Inner-Article-Image.png) ![How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](../../.gitbook/assets/Michael\_Programmable-Banking-Community--Using-programmable-banking-for-fraud-detection-and-prevention\_Inner-Article-Image.png)
+![](https://lh6.googleusercontent.com/MF6nuZcPGPCBPU1zg6Pv\_DVoPu3f29DdN84jLCnCqM-Rh8QBZKLQgkq\_465z3ZQ8wt5LH4l3RFVhIrVOQs8P5XrgRHcgzY47dMb3QwryyrE9p\_lON7nF0O2KqpyoyZJj7BPTyjEK)

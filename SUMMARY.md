@@ -8,7 +8,6 @@
   * [Best paying developer roles](your-salary-as-a-developer/what-are-the-best-paying-software-development-roles-in-sa.md)
   * [Your earning potential](your-salary-as-a-developer/what-are-the-things-that-will-affects-my-earning-potential.md)
 * [🏛 Open Banking](programmable-banking/programmable-banking-for-sa-developers.md)
-  * [Open banking benefits](open-banking/open-banking-benefits.md)
   * [Programmable banking](open-banking/programmable-banking/README.md)
     * [Programmable banking in action](open-banking/programmable-banking/programmable-banking-in-action.md)
 * [💸 Tax](tax/README.md)
