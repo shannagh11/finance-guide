@@ -1,14 +1,14 @@
 # 🇲🇺 Mauritius
 
-### What should I know when moving to or investing in Mauritius?&#x20;
-
 {% embed url="https://open.spotify.com/episode/0enGzggjCngKAKfE7WBton" %}
 [Nozipho Tshabalala](https://www.linkedin.com/in/noziphotshabalala/?originalSubdomain=za) speaks with Investec's [Rene van Zyl ](https://www.linkedin.com/in/renelabuschagne/?originalSubdomain=za)and [Gordan Stuart](https://www.linkedin.com/in/gordon-stuart-81645a173/?originalSubdomain=mu), MD of Accuro.
 {% endembed %}
 
+### What should I know when moving to or investing in Mauritius?&#x20;
+
 If you dream of working and living in Mauritius, or you’re considering investing there, a wide range of options is available. But before you jump on a plane, there is more to island life than cocktails and white beaches, say [Rene van Zyl](https://www.linkedin.com/in/renelabuschagne/?originalSubdomain=za) of Investec, and [Gordon Stuart](https://www.linkedin.com/in/gordon-stuart-81645a173/?originalSubdomain=mu), Accuro MD in Mauritius.
 
-### &#x20;**High cost of living**
+#### &#x20;**High cost of living**
 
 Food, property and cars in Mauritius are expensive. In addition, expats are treated differently from citizens:
 
@@ -16,13 +16,13 @@ Food, property and cars in Mauritius are expensive. In addition, expats are trea
 * They are restricted to buying property in designated schemes, which is pricey.
 * They are taxed differently
 
-### **Mauritius as a tax haven?**
+#### **Mauritius as a tax haven?**
 
 Mauritius is not the low-tax jurisdiction it once was. It is highly regulated, participating in both the **Common Reporting Standards** and **the Foreign Account Tax Compliance Act.**
 
 The personal tax rate used to be an enviable 15%, but expats are now subject to a 25% solidarity levy on a salary of more than Rs3 million (about R1.2 million). You also pay 3% of your salary to a pension scheme that only citizens can access. On the plus side, you don’t pay capital gains tax (CGT), donations tax or estate duty tax.
 
-### **Applying to work and live in Mauritius**
+#### **Applying to work and live in Mauritius**
 
 To become a permanent resident, you can buy property in one of the available residential property schemes (with a minimum investment of US$350 000). They include the:
 
@@ -38,7 +38,7 @@ You can also apply for a residence permit. There are four categories, each with 
 * Self-employed permit (10 years)
 * Retirement residency permit (10 years).
 
-### **Tax implications from an SA perspective**
+#### **Tax implications from an SA perspective**
 
 Buying into a residency programme in Mauritius does not automatically mean you stop being an SA tax resident. Taxes also have to be paid in Mauritius.
 
@@ -50,7 +50,7 @@ Ceasing to be a SA tax resident, for example, triggers an exit charge based on t
 
 The permanence of your relocation is a crucial factor in taxation and exchange control. So you must think carefully about whether you can live in Mauritius permanently before you take the plunge.
 
-### **Estate planning**
+#### **Estate planning**
 
 There’s no estate duty, but Mauritian law does reserve between 50% and 75% of the estate for the children of the deceased, and no other provisions in the will can encroach on this portion.
 
@@ -60,7 +60,7 @@ Your heirs in SA will avoid estate duty and CGT and get the benefit of permanent
 
 The trust also gets around the fact that Mauritian law does not recognise a joint or mutual will nor allow heirs as appointed executors.
 
-### **Doing business in Mauritius**
+#### **Doing business in Mauritius**
 
 Investing in Mauritius has a lot to recommend it.&#x20;
 
