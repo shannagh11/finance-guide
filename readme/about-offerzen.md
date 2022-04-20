@@ -5,7 +5,7 @@
 Over the last five years, this mission has manifested in a multitude of ways: from our core business of helping software makers find awesome new jobs, to hosting local maker evenings and tech events or helping makers share their experiences on our blog. We want to help build an inclusive, transparent, and thriving tech ecosystem.
 
 {% hint style="info" %}
-[Find your next dev job with OfferZen](https://www.offerzen.com) or join the OfferZen community on Slack&#x20;
+[Find your next dev job with OfferZen](https://www.offerzen.com) &#x20;
 {% endhint %}
 
 ### OfferZen and Investec Partnership
