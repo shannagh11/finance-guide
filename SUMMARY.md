@@ -24,7 +24,6 @@
   * [Active and passive investing](wealth-creation/active-and-passive-investing.md)
 * [💰 Building a Business](building-a-business/README.md)
   * [Fundraising](building-a-business/fundraising.md)
-  * [Registering your business](building-a-business/registering-your-business.md)
 * [✈ Making the Move Offshore](making-the-move-offshore/README.md)
   * [🇦🇺 Australia](making-the-move-offshore/australia.md)
   * [🇲🇺 Mauritius](making-the-move-offshore/mauritius.md)
