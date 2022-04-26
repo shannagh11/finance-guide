@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💵 Finance Guide for SA Devs](README.md)
+* [💵 The Developer Finance Guide](README.md)
   * [About OfferZen](readme/about-offerzen.md)
   * [About Investec](readme/about-investec.md)
 * [💻 Your Salary as a Developer](your-salary-as-a-developer/README.md)
